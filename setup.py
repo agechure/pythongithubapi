@@ -4,7 +4,7 @@ setup(
     name='python_github_api',
     version='0.0.1',
     description='Simple methods to get most starred python github repositories',
-    url='https://github.com/agechure/python-github-api',
+    url='https://github.com/agechure/python_github_api',
     author='Abel Gechure',
     author_email='agechure@fubo.tv',
     license='MIT',
