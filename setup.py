@@ -8,7 +8,7 @@ setup(
     author='Abel Gechure',
     author_email='agechure@fubo.tv',
     license='MIT',
-    packages=['python_github_api'],
+    packages=['pythongithubapi'],
     install_requires=['requests','plotly'],
 
 )
