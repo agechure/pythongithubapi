@@ -1,6 +1,6 @@
 
 import requests 
-from plotly.graph_objs import bar 
+from plotly.graph_objs import Bar 
 from plotly import offline
 # make an API call and store the response 
 
